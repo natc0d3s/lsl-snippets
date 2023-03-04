@@ -1,10 +1,20 @@
 ## lsl-snippets
 <p><br></p>
 
-**Primitive Parameter to llSetLinkPrimitiveParamsFast()**  
+
+### linkset disassembler  
+
+helper script to disassemble / assemble linksets for easier work on single links with backup function  
+
+[linkset_disassembler.lsl](https://github.com/natc0d3s/lsl-snippets/blob/main/linkset%20disassembler/linkset_disassembler.lsl)
+
+<p><br></p>
 
 
-functions to read primitive parameters from a linkset and print them as copy-able output for easy re-import or backup
+### primitive parameter to llSetLinkPrimitiveParamsFast()  
+
+
+helper functions to read primitive parameters from a linkset and print them as copy-able output for easy re-import or backup
 
 
 example  
