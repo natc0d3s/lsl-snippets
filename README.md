@@ -18,6 +18,6 @@ llSetLinkPrimitiveParamsFast(0,[
         21,0, 0, 0.000000, 0.000000, 0.000000, 0.000000, <0.000000, 0.000000, 0.000000>
         ]);
 ```
-[get_primitive_parameters_as_copy_able_output.lsl]([https://github.com/natc0d3s/lsl-snippets/blob/main/get_primitive_parameters_as_copy_able_output.lsl](https://github.com/natc0d3s/lsl-snippets/blob/main/primitive%20parameter%20to%20llSetLinkPrimitiveParamsFast()/get_primitive_parameters_as_copy_able_output.lsl))
+[get_primitive_parameters_as_copy_able_output.lsl](https://github.com/natc0d3s/lsl-snippets/blob/main/primitive%20parameter%20to%20llSetLinkPrimitiveParamsFast()/get_primitive_parameters_as_copy_able_output.lsl)
 
 
